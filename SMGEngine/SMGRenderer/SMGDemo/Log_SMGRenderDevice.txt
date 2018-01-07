@@ -1,0 +1,5 @@
+[SMGOGLDevice]: online (waiting for initialization call)
+[SMGOGLDevice]: calling dialog
+[SMGOGLDevice]: dialog finished
+[SMGOGLDevice]: firing up OpenGL
+[SMGOGLDevice]: initialized (online and ready)

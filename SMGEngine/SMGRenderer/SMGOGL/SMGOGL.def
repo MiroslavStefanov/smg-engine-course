@@ -1,0 +1,5 @@
+LIBRARY "SMGOGL.dll"
+EXPORTS
+	CreateRenderDevice
+	ReleaseRenderDevice
+	DisplayFactory
